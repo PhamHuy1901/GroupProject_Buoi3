@@ -1,0 +1,58 @@
+* [33m144cfda[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature-shared[m[33m, [m[1;31morigin/feature-shared[m[33m)[m Bao Huy commit
+* [33m83c6492[m huy pham chinh sua file lan 1
+* [33m5d92806[m[33m ([m[1;33mtag: [m[1;33mv1.1[m[33m, [m[1;32mmain[m[33m)[m chinh sua file readme.md
+*   [33maae8956[m[33m ([m[1;33mtag: [m[1;33mv1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Leader resolve confilct in task-shared.md
+[32m|[m[33m\[m  
+[32m|[m * [33mc39f866[m[33m ([m[1;31morigin/feature-PhamNhatHuy[m[33m)[m HuyPHam sua file taskshare.md
+[32m|[m *   [33mea217ff[m Merge remote-tracking branch 'origin/main' into feature-PhamNhatHuy
+[32m|[m [34m|[m[35m\[m  
+[32m|[m * [35m\[m   [33mddad46e[m Merge branch 'feature-PhamNhatHuy' of https://github.com/PhamHuy1901/GroupProject_Buoi3 into feature-PhamNhatHuy
+[32m|[m [36m|[m[1;31m\[m [35m\[m  
+[32m|[m [36m|[m * [35m|[m [33ma66bcfe[m Add extraFile for additional details
+[32m|[m [36m|[m * [35m|[m [33m9aa6300[m Update note.txt with new updates
+[32m|[m [36m|[m * [35m|[m [33m0f43338[m Add task and note files PhamNhatHuy
+[32m|[m [36m|[m * [35m|[m [33m83f9c4b[m Add phamhuy.txt
+* [36m|[m [1;31m|[m [35m|[m   [33m3184055[m Merge pull request #8 from PhamHuy1901/feature-BaoHuy
+[35m|[m[1;33m\[m [36m\[m [1;31m\[m [35m\[m  
+[35m|[m [1;33m|[m[35m_[m[36m|[m[35m_[m[1;31m|[m[35m/[m  
+[35m|[m[35m/[m[1;33m|[m [36m|[m [1;31m|[m   
+[35m|[m * [36m|[m [1;31m|[m [33m0daaa8f[m[33m ([m[1;31morigin/feature-BaoHuy[m[33m, [m[1;32mfeature-BaoHuy[m[33m)[m 18/10/2025 Bao Huy
+[35m|[m[35m/[m [36m/[m [1;31m/[m  
+* [36m|[m [1;31m|[m   [33mfda0799[m Merge pull request #7 from PhamHuy1901/test-BaoHuy
+[1;34m|[m[1;35m\[m [36m\[m [1;31m\[m  
+[1;34m|[m * [36m|[m [1;31m|[m [33m7b770c3[m[33m ([m[1;31morigin/test-BaoHuy[m[33m, [m[1;32mtest-BaoHuy[m[33m)[m Thêm file testBaoHuy.txt
+[1;34m|[m [1;31m|[m [36m|[m[1;31m/[m  
+[1;34m|[m [1;31m|[m[1;31m/[m[36m|[m   
+* [1;31m|[m [36m|[m   [33m6c27273[m Merge branch 'main' of https://github.com/PhamHuy1901/GroupProject_Buoi3
+[1;36m|[m[31m\[m [1;31m\[m [36m\[m  
+[1;36m|[m * [1;31m\[m [36m\[m   [33meb0e35f[m Merge pull request #5 from PhamHuy1901/conflict-VanHau
+[1;36m|[m [32m|[m[33m\[m [1;31m\[m [36m\[m  
+[1;36m|[m [32m|[m * [1;31m|[m [36m|[m [33mc5d01d9[m[33m ([m[1;31morigin/conflict-VanHau[m[33m)[m Văn Hậu đã chỉnh sửa README.md
+[1;36m|[m [32m|[m * [1;31m|[m [36m|[m [33m204da76[m Thêm file README.md đầu tiên
+* [32m|[m [33m|[m [1;31m|[m [36m|[m [33ma4afefa[m init shard files cho ae
+[32m|[m[32m/[m [33m/[m [1;31m/[m [36m/[m  
+* [33m|[m [1;31m|[m [36m|[m   [33m8f26a6f[m Merge branch 'main' of https://github.com/PhamHuy1901/GroupProject_Buoi3
+[36m|[m[35m\[m [33m\[m [1;31m\[m [36m\[m  
+[36m|[m [35m|[m[36m_[m[33m|[m[36m_[m[1;31m|[m[36m/[m  
+[36m|[m[36m/[m[35m|[m [33m|[m [1;31m|[m   
+[36m|[m * [33m|[m [1;31m|[m [33ma1acee2[m Merge pull request #3 from PhamHuy1901/feature-VanHau
+[36m|[m [36m|[m[33m\[m[33m|[m [1;31m|[m 
+[36m|[m [36m|[m * [1;31m|[m [33mc3a3c1c[m[33m ([m[1;31morigin/feature-VanHau[m[33m)[m Add extra-VanHau.txt
+[36m|[m [36m|[m * [1;31m|[m [33m846908c[m Đã cập nhật và sửa lại các Files
+[36m|[m [36m|[m * [1;31m|[m [33mfd80078[m Thêm task-VanHau.md và note-VanHau.txt
+[36m|[m [36m|[m [1;31m|[m[1;31m/[m  
+[36m|[m * [1;31m|[m   [33m2de1a2a[m Merge pull request #4 from PhamHuy1901/feature-BaoHuy
+[36m|[m [1;31m|[m[1;33m\[m [1;31m\[m  
+[36m|[m [1;31m|[m [1;33m|[m[1;31m/[m  
+[36m|[m [1;31m|[m[1;31m/[m[1;33m|[m   
+[36m|[m [1;31m|[m * [33mcb8b51b[m Thêm file extra-BaoHuy.txt
+[36m|[m [1;31m|[m * [33mb48462f[m Thêm file task-BaoHuy.md và note-BaoHuy.txt
+[36m|[m [1;31m|[m * [33m86f20b6[m Them file LuongBaoHuy.txt
+[36m|[m [1;31m|[m[1;31m/[m  
+* [1;31m|[m [33mfb21a1e[m Add extraFile for additional details
+* [1;31m|[m [33m94f7bb1[m Update note.txt with new updates
+* [1;31m|[m [33m93f4222[m Add task and note files PhamNhatHuy
+* [1;31m|[m [33mfc72025[m Add phamhuy.txt
+* [1;31m|[m [33m989f3fc[m[33m ([m[1;31morigin/test-PhamNhatHuy[m[33m, [m[1;31morigin/develop[m[33m)[m add test for PhamHuy
+[1;31m|[m[1;31m/[m  
+* [33m4e2f5ab[m[33m ([m[1;31morigin/test-VanHau[m[33m)[m Initial commit
